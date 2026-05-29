@@ -12,8 +12,6 @@ export default function HeroSection() {
           <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to top, #0D0D0D 0%, transparent 55%)" }} />
         </div>
 
-        <div style={{ position: "absolute", top: 0, bottom: 0, right: "33%", width: 2, backgroundColor: "#FFD600", opacity: 0.35 }} />
-
         <div style={{ position: "relative", maxWidth: 1280, margin: "0 auto", padding: "4rem 1rem", width: "100%" }}>
           <div style={{ maxWidth: 640 }}>
             {/* Badge */}
